@@ -1,4 +1,4 @@
-<h3 align="center">Hello there, I'm Yash 👋</h3>
+<h3 align="center">Hello there, I'm M.ROHAN FAROOQUI👋</h3>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/yash-kumar-verma/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
@@ -38,7 +38,7 @@ task-runner is a code-runner written in GoLang(for performance and concurrency) 
 </p>
 <p width="100%" align="center">
     <a align="center" href="https://github.com/YashKumarVerma/rc-heimdall" title="RC Heimdall">
-        <img align="center" height="115" src="https://github-readme-stats-lac-five.vercel.app/api/pin/?username=yashkumarverma&repo=rc-heimdall&theme=gotham" />
+        <img align="center" height="115" src="https://github-readme-stats-lac-five.vercel.app/api?username=LOL-32&count_private=true&show_icons=true&include_all_commits=true&theme=gotham" />
     </a>
 </p>
 <br>
