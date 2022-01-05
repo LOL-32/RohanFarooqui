@@ -41,11 +41,13 @@ You can find me on following social media platforms or send me an email:
             <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanfarooqui&layout=compact&theme=tokyonight" width="300" />
         </td>
         <td>
-            <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RohanFarooqui&show_icons=true&hide=contribs&theme=tokyonight&count_private=true" width="349" />
+            <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RohanFarooqui&show_icons=true&hide=contribs&theme=tokyonight&count_private=true" width="347" />
         </td>
     </tr>
     <tr>
-        <img alt="Github Stats" src="https://activity-graph.herokuapp.com/graph?username=rohanfarooqui&theme=minimal" width="671" />
+        <td colspan="2">
+            <img alt="Github Stats" src="https://activity-graph.herokuapp.com/graph?username=rohanfarooqui&theme=minimal" width="671" />
+        </td>
     </tr>
 </table>
 
