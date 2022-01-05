@@ -35,7 +35,7 @@ You can find me on following social media platforms or send me an email:
 
 ##
 
-<table>
+<table align="center">
     <tr>
         <td>
             <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanfarooqui&layout=compact&theme=tokyonight" width="300" />
