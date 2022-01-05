@@ -44,6 +44,11 @@ You can find me on following social media platforms or send me an email:
             <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RohanFarooqui&show_icons=true&hide=contribs&theme=tokyonight&count_private=true" width="347" />
         </td>
     </tr>
+    <tr align="center">
+        <td colspan="2">
+            <img alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanfarooqui" width="347" />
+        </td>
+    </tr>
     <tr>
         <td colspan="2">
             <img alt="Github Stats" src="https://activity-graph.herokuapp.com/graph?username=rohanfarooqui&theme=minimal" width="671" />
