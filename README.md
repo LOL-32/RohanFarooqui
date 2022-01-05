@@ -17,40 +17,35 @@
             <img alt="Python3" width="30px" src="Programming_Icons/python.png"/> &nbsp;
             <img alt="C++" width="30px" src="Programming_Icons/c.png"/> &nbsp;
             <img alt="Java" width="30px" src="Programming_Icons/java.png"/> &nbsp;
+            <img alt="PHP" width="30px" src="Programming_Icons/php.png"/> &nbsp;
+            <img alt="JS" width="30px" src="Programming_Icons/javascript.png"/> &nbsp; 
         </td>
     </tr>
     <tr>
-        <td> Frontend Design </td>
+        <td> Frontend </td>
         <td>
-            <img alt="HTMl" width="30px" src="Programming_Icons/html.png" /> &nbsp;
-            <img alt="Bootstrap" width="30px" src="Programming_Icons/bootstrap.png" /> &nbsp;
-            <img alt="Css" width="30px" src="Programming_Icons/css3.png" /> &nbsp;          
+            <img alt="HTMl" width="30px" src="Programming_Icons/html.png"/> &nbsp;
+            <img alt="Bootstrap" width="30px" src="Programming_Icons/bootstrap.png"/> &nbsp;
+            <img alt="Css" width="30px" src="Programming_Icons/css3.png"/> &nbsp;          
         </td>
     </tr>
     <tr>
-        <td> Backend </td>
+        <td> Frameworks </td>
         <td>
-            <img alt="PHP" width="30px" src="Programming_Icons/php.png" /> &nbsp;
-            <img alt="JS" width="30px" src="Programming_Icons/javascript.png" /> &nbsp;       
-        </td>
-    </tr>
-    <tr>
-        <td> Frame Works </td>
-        <td>
-            <img alt="React" width="30px" src="Programming_Icons/react.png" /> &nbsp;
-            <img alt="Django" width="30px" src="Programming_Icons/django.png" /> &nbsp;    
+            <img alt="React" width="30px" src="Programming_Icons/react.png"/> &nbsp;
+            <img alt="Django" width="30px" src="Programming_Icons/django.png"/> &nbsp;    
         </td>
     </tr>
     <tr>
         <td> Database </td>
         <td>
-            <img alt="My Sql" width="30px" src="Programming_Icons/mysql.png" /> &nbsp;
+            <img alt="My Sql" width="30px" src="Programming_Icons/mysql.png"/> &nbsp;
             <img alt="Postge Sql" width="30px" src="Programming_Icons/postgresql.png"/> &nbsp;
             <img alt="Postge Sql" width="30px" src="Programming_Icons/sqlite.png"/> &nbsp;     
         </td>
     </tr>
-
 </table>
+
 &nbsp;
 
 #
