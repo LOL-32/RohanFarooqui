@@ -1,18 +1,15 @@
 <h2 align="center">Hi 👋, I'm  <a href="https://rohanfarooqui.github.io/"> Muhammad Rohan Zahid Farooqui </a></h2>
 <h5 align="center">Welcome to my Github Profile!</h5>
 
-
 <strong>I am a Full Stack Developer.</strong>
 
 <p>I strive while utilising both the logical and creative part of the brain. I stand for quality, innovation and building useful products. I am a proactive, confident and communicatively strong person always looking ahead in the future.</p>
 
 #
-### Projects
-
-
+### Latest Project
+👉 Workflow Management System for University Processes. [Demo Video](https://www.youtube.com/watch?v=MhOxQJFE62w)
 #
 ### Languages and Tools:
-
 <table>
     <tr>
         <td> Languages </td>
@@ -54,13 +51,10 @@
     </tr>
 
 </table>
-
-
-
 &nbsp;
+
 #
 ### Github Stats
-
 <table align="center">
     <tr>
         <td>
@@ -72,19 +66,18 @@
     </tr>
     <tr align="center">
         <td colspan="2">
-            <img alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanfarooqui" width="347" />
+            <img alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanfarooqui&theme=tokyonight&count_private=true" width="347" />
         </td>
     </tr>
     <tr>
         <td colspan="2">
-            <img alt="Github Stats" src="https://activity-graph.herokuapp.com/graph?username=rohanfarooqui&theme=minimal" width="671" />
+            <img alt="Github Stats" src="https://activity-graph.herokuapp.com/graph?username=rohanfarooqui&theme=react-dark&custom_title=Actvity%20Graph&hide_border=true&area=true" width="671" />
         </td>
     </tr>
 </table>
 
 #
 ### Social 📱
-
 You can find me on following social media platforms or send me an email:
 <div>
     <ul>
@@ -110,3 +103,5 @@ You can find me on following social media platforms or send me an email:
         </li>
     <ul>
 </div>
+
+#
