@@ -2,10 +2,88 @@
 <h5 align="center">Welcome to my Github Profile!</h5>
 
 
+<strong>I am a Full Stack Developer.</strong>
 
-I am Full Stack Developer.
+<p>I strive while utilising both the logical and creative part of the brain. I stand for quality, innovation and building useful products. I am a proactive, confident and communicatively strong person always looking ahead in the future.</p>
 
-## Social 📱
+#
+### Projects
+
+
+#
+### Languages and Tools:
+
+<table>
+    <tr>
+        <td> Languages </td>
+        <td>
+            <img alt="Python3" width="30px" src="Programming_Icons/python.png"/> &nbsp;
+            <img alt="C++" width="30px" src="Programming_Icons/c.png"/> &nbsp;
+            <img alt="Java" width="30px" src="Programming_Icons/java.png"/> &nbsp;
+        </td>
+    </tr>
+    <tr>
+        <td> Frontend Design </td>
+        <td>
+            <img alt="HTMl" width="30px" src="Programming_Icons/html.png" /> &nbsp;
+            <img alt="Bootstrap" width="30px" src="Programming_Icons/bootstrap.png" /> &nbsp;
+            <img alt="Css" width="30px" src="Programming_Icons/css3.png" /> &nbsp;          
+        </td>
+    </tr>
+    <tr>
+        <td> Backend </td>
+        <td>
+            <img alt="PHP" width="30px" src="Programming_Icons/php.png" /> &nbsp;
+            <img alt="JS" width="30px" src="Programming_Icons/javascript.png" /> &nbsp;       
+        </td>
+    </tr>
+    <tr>
+        <td> Frame Works </td>
+        <td>
+            <img alt="React" width="30px" src="Programming_Icons/react.png" /> &nbsp;
+            <img alt="Django" width="30px" src="Programming_Icons/django.png" /> &nbsp;    
+        </td>
+    </tr>
+    <tr>
+        <td> Database </td>
+        <td>
+            <img alt="My Sql" width="30px" src="Programming_Icons/mysql.png" /> &nbsp;
+            <img alt="Postge Sql" width="30px" src="Programming_Icons/postgresql.png"/> &nbsp;
+            <img alt="Postge Sql" width="30px" src="Programming_Icons/sqlite.png"/> &nbsp;     
+        </td>
+    </tr>
+
+</table>
+
+
+
+&nbsp;
+#
+### Github Stats
+
+<table align="center">
+    <tr>
+        <td>
+            <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanfarooqui&layout=compact&theme=tokyonight" width="300" />
+        </td>
+        <td>
+            <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RohanFarooqui&show_icons=true&hide=contribs&theme=tokyonight&count_private=true" width="347" />
+        </td>
+    </tr>
+    <tr align="center">
+        <td colspan="2">
+            <img alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanfarooqui" width="347" />
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <img alt="Github Stats" src="https://activity-graph.herokuapp.com/graph?username=rohanfarooqui&theme=minimal" width="671" />
+        </td>
+    </tr>
+</table>
+
+#
+### Social 📱
 
 You can find me on following social media platforms or send me an email:
 <div>
@@ -32,29 +110,3 @@ You can find me on following social media platforms or send me an email:
         </li>
     <ul>
 </div>
-
-##
-
-<table align="center">
-    <tr>
-        <td>
-            <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanfarooqui&layout=compact&theme=tokyonight" width="300" />
-        </td>
-        <td>
-            <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RohanFarooqui&show_icons=true&hide=contribs&theme=tokyonight&count_private=true" width="347" />
-        </td>
-    </tr>
-    <tr align="center">
-        <td colspan="2">
-            <img alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanfarooqui" width="347" />
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2">
-            <img alt="Github Stats" src="https://activity-graph.herokuapp.com/graph?username=rohanfarooqui&theme=minimal" width="671" />
-        </td>
-    </tr>
-</table>
-
-
-<!--<img alt="Github Stats"  width="300" src="https://activity-graph.herokuapp.com/graph?username=rohanfarooqui&theme=minimal" />-->
