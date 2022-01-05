@@ -1,5 +1,5 @@
-<h2 style="text-align:center">Hi 👋, I'm  <a href="https://rohanfarooqui.github.io/"> Muhammad Rohan Zahid Farooqui </a></h2>
-<h5 style="text-align:center">Welcome to my Github Profile!</h5>
+<h2 align="center">Hi 👋, I'm  <a href="https://rohanfarooqui.github.io/"> Muhammad Rohan Zahid Farooqui </a></h2>
+<h5 align="center">Welcome to my Github Profile!</h5>
 
 
 
@@ -37,8 +37,12 @@ You can find me on following social media platforms or send me an email:
 
 <table>
     <tr>
-        <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanfarooqui&layout=compact&theme=tokyonight" width="300" />
-        <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RohanFarooqui&show_icons=true&hide=contribs&theme=tokyonight&count_private=true" width="349" />
+        <td>
+            <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanfarooqui&layout=compact&theme=tokyonight" width="300" />
+        </td>
+        <td>
+            <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RohanFarooqui&show_icons=true&hide=contribs&theme=tokyonight&count_private=true" width="349" />
+        </td>
     </tr>
     <tr>
         <img alt="Github Stats" src="https://activity-graph.herokuapp.com/graph?username=rohanfarooqui&theme=minimal" width="671" />
