@@ -8,45 +8,6 @@
 #
 ### Latest Project
 👉 Workflow Management System for University Processes. [Demo Video](https://www.youtube.com/watch?v=MhOxQJFE62w)
-#
-### Languages and Tools:
-<table>
-    <tr>
-        <td> Languages </td>
-        <td>
-            <img alt="Python3" width="30px" src="Programming_Icons/python.png"/> &nbsp;
-            <img alt="C++" width="30px" src="Programming_Icons/c.png"/> &nbsp;
-            <img alt="Java" width="30px" src="Programming_Icons/java.png"/> &nbsp;
-            <img alt="PHP" width="30px" src="Programming_Icons/php.png"/> &nbsp;
-            <img alt="JS" width="30px" src="Programming_Icons/javascript.png"/> &nbsp; 
-        </td>
-    </tr>
-    <tr>
-        <td> Frontend </td>
-        <td>
-            <img alt="HTMl" width="30px" src="Programming_Icons/html.png"/> &nbsp;
-            <img alt="Bootstrap" width="30px" src="Programming_Icons/bootstrap.png"/> &nbsp;
-            <img alt="Css" width="30px" src="Programming_Icons/css3.png"/> &nbsp;          
-        </td>
-    </tr>
-    <tr>
-        <td> Frameworks </td>
-        <td>
-            <img alt="React" width="30px" src="Programming_Icons/react.png"/> &nbsp;
-            <img alt="Django" width="30px" src="Programming_Icons/django.png"/> &nbsp;    
-        </td>
-    </tr>
-    <tr>
-        <td> Database </td>
-        <td>
-            <img alt="My Sql" width="30px" src="Programming_Icons/mysql.png"/> &nbsp;
-            <img alt="Postge Sql" width="30px" src="Programming_Icons/postgresql.png"/> &nbsp;
-            <img alt="Postge Sql" width="30px" src="Programming_Icons/sqlite.png"/> &nbsp;     
-        </td>
-    </tr>
-</table>
-
-&nbsp;
 
 #
 ### Github Stats
@@ -70,6 +31,64 @@
         </td>
     </tr>
 </table>
+
+#
+### Languages and Tools:
+<table>
+    <tr>
+        <td>
+            <img alt="Python3" width="30px" src="Programming_Icons/python.png"/> &nbsp; 
+            <img alt="C++" width="30px" src="Programming_Icons/c.png"/> &nbsp;
+            <img alt="Java" width="30px" src="Programming_Icons/java.png"/> &nbsp;
+            <img alt="PHP" width="30px" src="Programming_Icons/php.png"/> &nbsp;
+        </td>
+        <td>
+            <img alt="Github Stats" src="https://progress-bar.dev/90/" />
+        </td>
+        <td>
+            <img alt="JS" width="30px" src="Programming_Icons/javascript.png"/> &nbsp; 
+        </td>
+        <td>
+            <img alt="Github Stats" src="https://progress-bar.dev/80/" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="HTMl" width="30px" src="Programming_Icons/html.png"/> &nbsp;
+            <img alt="Bootstrap" width="30px" src="Programming_Icons/bootstrap.png"/> &nbsp;
+            <img alt="Css" width="30px" src="Programming_Icons/css3.png"/> &nbsp;          
+        </td>
+        <td>
+            <img alt="Github Stats" src="https://progress-bar.dev/70/" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="Django" width="30px" src="Programming_Icons/django.png"/> &nbsp;    
+        </td>
+        <td>
+            <img alt="Github Stats" src="https://progress-bar.dev/80/" />
+        </td>
+        <td>
+            <img alt="React" width="30px" src="Programming_Icons/react.png"/> &nbsp;  
+        </td>
+        <td>
+            <img alt="Github Stats" src="https://progress-bar.dev/70/" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="My Sql" width="30px" src="Programming_Icons/mysql.png"/> &nbsp;
+            <img alt="Postge Sql" width="30px" src="Programming_Icons/postgresql.png"/> &nbsp;
+            <img alt="Postge Sql" width="30px" src="Programming_Icons/sqlite.png"/> &nbsp;    
+        </td>
+        <td>
+            <img alt="Github Stats" src="https://progress-bar.dev/85/" />
+        </td>
+    </tr>
+</table>
+
+&nbsp;
 
 #
 ### Social 📱
@@ -98,5 +117,3 @@ You can find me on following social media platforms or send me an email:
         </li>
     <ul>
 </div>
-
-#
