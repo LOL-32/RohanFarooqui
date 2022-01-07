@@ -64,12 +64,6 @@
     </tr>
     <tr>
         <td>
-            <img alt="Django" width="30px" src="Programming_Icons/django.png"/> &nbsp;    
-        </td>
-        <td>
-            <img alt="Github Stats" src="https://progress-bar.dev/80/" />
-        </td>
-        <td>
             <img alt="React" width="30px" src="Programming_Icons/react.png"/> &nbsp;  
         </td>
         <td>
