@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm  <a href="https://rohanfarooqui.github.io/"> Muhammad Rohan Zahid Farooqui </a></h2>
 
-<div>
+<div align="center">
     <a href="mailto:rohan.farooqui@gmail.com">
         <img src="https://img.shields.io/badge/rohan.farooqui-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
