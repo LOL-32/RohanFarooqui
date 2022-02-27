@@ -55,7 +55,7 @@
 
 #
 ### Blog's
-<div>
+<div align="center">
     <a href="https://rohanfarooqui.wordpress.com/">
         <img src="https://img.shields.io/badge/rohanfarooqui-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
     </a>
@@ -66,7 +66,7 @@
 
 #
 ### Social 
-<div>
+<div align="center">
     <a href="https://wa.me/qr/TOGKF4D4NIANJ1">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
     </a>
