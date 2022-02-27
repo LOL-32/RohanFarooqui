@@ -13,10 +13,9 @@
     <a href="https://stackoverflow.com/users/8807619/rohan-farooqui">
         <img src="https://img.shields.io/badge/-rohanfarooqui-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
     </a>     
-
-
-     
-
+    <a href="https://www.hackerrank.com/rohanfarooqui">
+        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+    </a>
 </div>
 
 <h3 align="center"><b>Welcome to my Github Profile!<b></h5>
@@ -73,9 +72,6 @@
     </a>
     <a href="https://www.hackerrank.com/rohanfarooqui">
         <img src="https://img.shields.io/badge/@RohanFarooqui-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-    </a>
-    <a href="https://www.hackerrank.com/rohanfarooqui">
-        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
     </a>
 </div>
 
