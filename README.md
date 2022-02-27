@@ -19,7 +19,7 @@
 
 </div>
 
-<h3 align="center">Welcome to my Github Profile!</h5>
+<h3 align="center"><b>Welcome to my Github Profile!<b></h5>
 
 <strong>I am a Full Stack Developer.</strong>
 
