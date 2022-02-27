@@ -1,5 +1,23 @@
 <h2 align="center">Hi 👋, I'm  <a href="https://rohanfarooqui.github.io/"> Muhammad Rohan Zahid Farooqui </a></h2>
-<h5 align="center">Welcome to my Github Profile!</h5>
+
+<div>
+    <a href="mailto:rohan.farooqui@gmail.com">
+        <img src="https://img.shields.io/badge/rohan.farooqui-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/rohanfarooqui/">
+        <img src="https://img.shields.io/badge/rohanfarooqui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://youtube.com/Rohanfarooqui">
+        <img src="https://img.shields.io/badge/Rohan Farooqui-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    </a>
+        
+
+
+     
+
+</div>
+
+<h3 align="center">Welcome to my Github Profile!</h5>
 
 <strong>I am a Full Stack Developer.</strong>
 
@@ -32,82 +50,30 @@
     </tr>
 </table>
 
-#
-### Languages and Tools:
-<table>
-    <tr>
-        <td>
-            <img alt="Python3" width="30px" src="Programming_Icons/python.png"/> &nbsp; 
-            <img alt="C++" width="30px" src="Programming_Icons/c.png"/> &nbsp;
-            <img alt="Java" width="30px" src="Programming_Icons/java.png"/> &nbsp;
-            <img alt="PHP" width="30px" src="Programming_Icons/php.png"/> &nbsp;
-        </td>
-        <td>
-            <img alt="Github Stats" src="https://progress-bar.dev/90/" />
-        </td>
-        <td>
-            <img alt="JS" width="30px" src="Programming_Icons/javascript.png"/> &nbsp; 
-        </td>
-        <td>
-            <img alt="Github Stats" src="https://progress-bar.dev/80/" />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img alt="HTMl" width="30px" src="Programming_Icons/html.png"/> &nbsp;
-            <img alt="Bootstrap" width="30px" src="Programming_Icons/bootstrap.png"/> &nbsp;
-            <img alt="Css" width="30px" src="Programming_Icons/css3.png"/> &nbsp;          
-        </td>
-        <td>
-            <img alt="Github Stats" src="https://progress-bar.dev/70/" />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img alt="React" width="30px" src="Programming_Icons/react.png"/> &nbsp;  
-        </td>
-        <td>
-            <img alt="Github Stats" src="https://progress-bar.dev/70/" />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img alt="My Sql" width="30px" src="Programming_Icons/mysql.png"/> &nbsp;
-            <img alt="Postge Sql" width="30px" src="Programming_Icons/postgresql.png"/> &nbsp;
-            <img alt="Postge Sql" width="30px" src="Programming_Icons/sqlite.png"/> &nbsp;    
-        </td>
-        <td>
-            <img alt="Github Stats" src="https://progress-bar.dev/85/" />
-        </td>
-    </tr>
-</table>
 
-&nbsp;
 
 #
-### Social 📱
-You can find me on following social media platforms or send me an email:
+### Blog's
 <div>
-    <ul>
-        <li>
-            <img alt="LinkedIn Icon" width="25" src="Social_Icons/linkedin.png"/>
-            <a href="https://www.linkedin.com/in/rohanfarooqui/"> LinkedIn </a>
-        </li>
-        <li>
-            <img alt="Youtube Icon" width="25" src="Social_Icons/youtube.png"/>
-            <a href="http://www.youtube.com/Rohanfarooqui"> Youtube </a>
-        </li>
-        <li>
-            <img alt="Twitter Icon" width="25" src="Social_Icons/twitter.png"/>
-            <a href="https://twitter.com/Rohanfarooqui"> Twitter </a>
-        </li>
-        <li>
-            <img alt="Website Icon" width="25" src="Social_Icons/web-link.png"/>
-            <a href="https://rohanfarooqui.wordpress.com/"> Website </a>
-        </li>
-        <li>
-            <img alt="Youtube Icon" width="25" src="Social_Icons/gmail.png"/>
-            <a href="mailto:rohan.farooqui@gmail.com"> rohan.farooqui@gmail.com </a>
-        </li>
-    <ul>
+    <a href="https://rohanfarooqui.wordpress.com/">
+        <img src="https://img.shields.io/badge/rohanfarooqui-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
+    </a>
+    <a href="https://rohanfarooqui.medium.com/">
+        <img src="https://img.shields.io/badge/@RohanFarooqui-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+    </a>
 </div>
+
+#
+### Social 
+<div>
+    <a href="https://wa.me/qr/TOGKF4D4NIANJ1">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    </a>
+    <a href="https://www.hackerrank.com/rohanfarooqui">
+        <img src="https://img.shields.io/badge/@RohanFarooqui-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+    </a>
+    <a href="https://www.hackerrank.com/rohanfarooqui">
+        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+    </a>
+</div>
+
