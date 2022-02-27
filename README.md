@@ -10,7 +10,9 @@
     <a href="https://youtube.com/Rohanfarooqui">
         <img src="https://img.shields.io/badge/Rohan Farooqui-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
-        
+    <a href="https://stackoverflow.com/users/8807619/rohan-farooqui">
+        <img src="https://img.shields.io/badge/-rohanfarooqui-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+    </a>     
 
 
      
